@@ -1,0 +1,2 @@
+Flask
+celery[redis]=5.3.4
